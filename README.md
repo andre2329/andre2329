@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Peru, willing to relocate</h3>
 
 - 🚀 I'm involved in the Launch X program from Microsoft
-- 🔭 I’m currently working on [Devsu](https://devsu.com/)
+- 🔭 I’m currently working on [BBVA](https://www.bbva.com/en/)
 
 This is my old Repository - [Click here to go to my new account](https://github.com/jitrodriguez)
 
